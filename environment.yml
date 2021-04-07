@@ -1,25 +1,17 @@
-# Xavier Bresson
+# Group 3
 
-name: CE9010_2021
-
-
-channels:
-  
-  - pytorch
+name: CE9010_2021_Group3
 
 dependencies:
 
   # basic
-  - git
   - python=3.6
   - numpy
-  - mkl
   - ipython
   - jupyter
-  - scipy
   - pandas
   - matplotlib
   - scikit-learn
-  - networkx
-  - Pillow
+  - seaborn
+  - plotly
 
