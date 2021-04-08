@@ -1,0 +1,17 @@
+# Group 3
+
+name: CE9010_2021_Group3
+
+dependencies:
+
+  # basic
+  - python=3.6
+  - numpy
+  - ipython
+  - jupyter
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - seaborn
+  - plotly
+
