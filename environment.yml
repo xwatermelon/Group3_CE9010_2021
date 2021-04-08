@@ -14,4 +14,7 @@ dependencies:
   - scikit-learn
   - seaborn
   - plotly
+  - geopandas
+  - ipykernel
+  - imageio
 
