@@ -17,4 +17,5 @@ dependencies:
   - geopandas
   - ipykernel
   - imageio
-
+  - python-graphviz
+  

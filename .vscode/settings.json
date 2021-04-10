@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "C:\\Users\\Symus\\anaconda3\\envs\\CE9010_2021_Group3\\python.exe"
+    "python.pythonPath": "C:\\Users\\Symus\\anaconda3\\envs\\CE9010_2021_Group3\\python.exe",
+    "jupyter.jupyterServerType": "local"
 }
